@@ -1,0 +1,2 @@
+name: sh
+run: sh $ARGS

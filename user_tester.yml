@@ -1,0 +1,3 @@
+name: user-tester
+run: whoami
+user: test
